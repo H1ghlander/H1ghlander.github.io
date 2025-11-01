@@ -1,4 +1,5 @@
 // Lampa
+// lampa
 
 (function () {
     'use strict';
